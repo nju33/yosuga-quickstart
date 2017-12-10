@@ -1,0 +1,15 @@
+{
+  "name": "yosuga-quickstart",
+  "version": "0.0.0",
+  "description": "yosuga quickstart",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node -r babel-register example.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "yosuga": "^0.0.7"
+  },
+  "private": true
+}
